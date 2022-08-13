@@ -1,0 +1,2 @@
+echo "Welcome to Jserver "
+":%date% : %time%"
